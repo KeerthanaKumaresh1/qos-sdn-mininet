@@ -1,5 +1,8 @@
 # Simple QoS Priority Controller — SDN Mininet + POX Project
 
+Name: Keerthana Kumaresh
+SRN : PES1UG24CS225
+
 ## Problem Statement
 Implement an SDN-based QoS solution using Mininet and POX controller (OpenFlow 1.0)
 that prioritizes network traffic by type to minimize latency for real-time flows.
